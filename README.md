@@ -47,7 +47,7 @@ shiny::runApp("app.R")
 Nelli Hovhannisyan
 
 ## Contributing
-Please see [`CONTRIBUTING.md`](https://github.com/UBC-MDS/mental-health-dashboard/blob/main/CONTRIBUTING) for details on contributing to this project.
+Please see [`CONTRIBUTING.md`](https://github.com/UBC-MDS/mental-health-dashboard/blob/main/CONTRIBUTING.md) for details on contributing to this project.
 
 ## License
 This project is licensed under the [MIT license](https://github.com/UBC-MDS/mental-health-dashboard/blob/main/LICENSE).
