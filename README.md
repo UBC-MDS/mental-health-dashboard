@@ -40,7 +40,7 @@ source("load_data.R")
 ### Start the App:
 ```R
 shiny::runApp("app.R")
-```\
+```
 
 ## Team 
 
